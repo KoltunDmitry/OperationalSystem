@@ -1,0 +1,5 @@
+﻿  LAB1.cpp
+c:\users\dima\source\repos\lab1\lab1\lab1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\dima\source\repos\lab1\lab1\lab1.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\dima\source\repos\lab1\lab1\lab1.cpp(2): note: использование предварительно скомпилированного заголовка
+  LAB1.vcxproj -> C:\Users\DIMA\source\repos\LAB1\Debug\LAB1.exe

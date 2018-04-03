@@ -1,0 +1,2 @@
+Name of source binary file: C:\Users\DIMA\source\repos\LAB1\Debug\in1.txt
+List student with average mark more than: 8.2:

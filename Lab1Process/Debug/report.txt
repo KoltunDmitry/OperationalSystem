@@ -1,0 +1,4 @@
+Имя исходного бинарного файла: C:\Users\DIMA\source\repos\LAB1\Debug\lol.txt
+Список студентов со средним балом выше 5:
+Dima 9 9
+Sanya 9 10

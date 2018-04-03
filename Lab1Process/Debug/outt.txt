@@ -1,0 +1,4 @@
+Имя исходного бинарного файла: C:\Users\DIMA\source\repos\LAB1\Debug\input.txt
+Список студентов со средним балом выше 4:
+Dima 9 9
+V 6 6
